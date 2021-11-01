@@ -1,7 +1,7 @@
 
-Object tracking using YOLO and KCF 
+Object tracking using YOLO and a tracker(KCF, MOSSE, CSRT) in openCV 
 
-file YOLOv3 weight can be downloaded from link https://pjreddie.com/media/files/yolov3.weights
+File YOLOv3 weight can be downloaded from link https://pjreddie.com/media/files/yolov3.weights
 
 Comparison of KCF, MOSSE and CSRT traker in openCV:
 
